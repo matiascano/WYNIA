@@ -10,7 +10,7 @@ Aumentar achicar
 ### Interlineado
 Aumentar achicar
 
-### Interletrado
+### Interletrado
 Aumentar achicar
 
 ### Cambio de fuente
