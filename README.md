@@ -1,8 +1,8 @@
 # WYNIA - What You Need Is Accessibility
-Haciendo sitios accesibles.
+**Haciendo sitios accesibles.**
 
 ## Funcionalidades de WYNIA
-En el momento de escribir este artículo el proyecto cuenta con algunas funcionalidades básicas, pero me gustaría ir incorporando más con el correr del tiempo.
+El proyecto cuenta con algunas funcionalidades básicas, pero me gustaría ir incorporando más con el correr del tiempo.
 
 ### Manejo del tamaño tipográfico
 Aumentar achicar
