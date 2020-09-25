@@ -16,5 +16,5 @@ Aumentar achicar
 ### Cambio de fuente
 Sans Serif - Serif - Opensyslexic
 
-### Colores
+### Colores
 Fondo Claro - Fondo oscuro - Negativo - ByN
