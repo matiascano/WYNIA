@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>WYNIA</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="./js/js.cookie.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="./css/plantilla.css">
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <div id="wynia"><span>CONFIGURAR</span></div>
+    <div class="wynia-options">
+      <h3>Tamaño de tipografía</h3>
+      <button value="Agrandar tamño de la letra" id="aumentar-tipo">Aumentar</button> <button value="achicar el tamaño de la letra" id="achicar-tipo">Achicar</button>
+      <h3>Interlineado</h3>
+      <button value="agrandar el espacio entre lineas" id="aumentar-interlineado">Aumentar</button> <button value="achicar el espacio entre lineas"  id="achicar-interlineado">Achicar</button>
+      <h3>Interletrado</h3>
+      <button value="agrandar el espacio entre letras" id="aumentar-interletrado">Aumentar</button> <button value="achicar el espacio entre letras" id="achicar-interletrado">Achicar</button>
+      <h3>Cambiar fuente</h3>
+      <button value="usar fuente optimizada para personas con dislexia"  id="dislexia">Dislexia</button> <button value="usar fuente lineales sin decoraciones" id="sans">Sans serif</button> <button value="usar fuente con decoraciones" id="serif">Serif</button>
+      <h3>Cambiar colores</h3>
+      <button value="Combinación de colores por defecto" id="fondo-claro">Fondo clásico</button> <button value="pasa los fondos a negro y tipografía a amarillo para generat alto contraste" id="fondo-oscuro">Fondo oscuro</button>
+      <button value="Vuelve todos los parámetros al diseño original" id="reset">Restablecer valores</button>
+    </div>
+
+    <div>
+      <h1>WYNIA</h1>
+
+      <div class="image">
+        <img src="https://source.unsplash.com/random" alt="Lorem Ipsum">
+        <div class="caption">Lorem Ipsum</div>
+      </div>
+
+      <div class="lorem-ipsum">
+        <div class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</div>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Curabitur vitae hendrerit mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Mauris lacinia scelerisque nibh nec gravida.
+          Duis malesuada nec nibh sit amet pulvinar.
+          Phasellus congue porttitor arcu, ut suscipit nibh aliquam vel.
+          Nunc arcu lectus, egestas ut sem ac, euismod porttitor eros.
+          Phasellus tincidunt consequat pharetra. Maecenas sodales purus at nulla finibus dapibus.
+          Nullam varius at nisl vel euismod. Fusce aliquet ligula non tempor fermentum.
+          Nam fermentum posuere mauris, quis aliquam nibh dictum sed.</p>
+      </div>
+    </div>
+    <script src="./js/wynia.js"></script>
+  </body>
+</html>
