@@ -14,7 +14,7 @@ Aumentar achicar
 Aumentar achicar
 
 ### Cambio de fuente
-Sans Serif - Serif - Opensyslexic
+Sans Serif - Serif - OpenDyslexic
 
 ### Colores
 Fondo Claro - Fondo oscuro - Negativo - ByN
